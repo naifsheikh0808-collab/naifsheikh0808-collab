@@ -43,7 +43,7 @@ Sk Naif Alam :
 ---
 
 ## 🎮 Guess the Output
-
+<details>
 **Can you predict the output?**
 
 ```cpp
@@ -71,7 +71,7 @@ int main() {
 `arr + 2` points to the third element of the array, and `*(2 + arr)` is exactly the same expression because pointer addition is commutative.
 
 </details>
-
+</details>
 **If you got it right, you're already thinking like a C++ programmer. 🚀**
 ---
 

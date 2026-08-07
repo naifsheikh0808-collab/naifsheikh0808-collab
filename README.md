@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Sk%20Naif%20Alam&textBg=false&desc=Data%20Science%20Student%20|%20Full%20Stack%20Web%20Devloper%20|%20Problem%20Solver&descAlignY=55&fontAlignY=31&animation=twinkling&fontSize=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Sk%20Naif%20Alam&textBg=false&desc=Data%20Science%20Student%20|%20Full%20Stack%20Web%20Devloper%20|%20Problem%20Solver&descAlignY=55&fontAlignY=31&animation=twinkling&fontSize=60&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F6CC&width=435&lines=Hey+there!+I+am+Sk+Naif+Alam+%F0%9F%91%8B;B.tech+CSE+(Data+Science)+%40+Techno+Main+Saltlake%F0%9F%8E%93;Aspiring+Data+Scientist+and+Data+Analyst%F0%9F%9A%80;Building+AI-Powered+Solutions+for+Real-World+Problems+%F0%9F%92%A1;Currently+Learning+Data+Science%2C+AI%2FML+%26+DSA+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F6CC&width=520&lines=Hey+there!+I+am+Sk+Naif+Alam+%F0%9F%91%8B;B.tech+CSE+(Data+Science)+%40+Techno+Main+Saltlake%F0%9F%8E%93;Aspiring+Data+Scientist+and+Data+Analyst%F0%9F%9A%80;Building+AI-Powered+Solutions+for+Real-World+Problems+%F0%9F%92%A1;Currently+Learning+Data+Science%2C+AI%2FML+%26+DSA+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@ Sk Naif Alam :
   current_year: "3rd Year"
   semester: 5
   currently_learning: ["Excel", "SQL", "Python", "Power BI", "Tableau", "Statistics", "Machine Learning"]
-  currently_strengthening: ["Data Structures & Algorithms", "Problem Solving", "Data Cleaning", "Data Visualization", "Data Analytics", "Machine Learning Fundamentals"]
+  currently_strengthening: ["DSA", "Problem Solving", "Data Cleaning", "Data Visualization", "Data Analytics", "ML Fundamentals"]
   looking_for: ["Data Science Internship", "Data Analytics Internship", "Open Source Collaboration", "Real-world AI & Data Science Projects"]
   fun_fact: "I enjoy turning raw data into meaningful insights and believe every dataset tells a story waiting to be discovered."
 ```
@@ -44,33 +44,35 @@ Sk Naif Alam :
 
 ## 🎮 Guess the Output
 
-<details>
-<summary><b>Click to reveal a quick JS trivia round — no peeking before you guess! 👀</b></summary>
+**Can you predict the output?**
 
-<br/>
+```cpp
+#include <iostream>
+using namespace std;
 
-**What does this print?**
-
-```javascript
-console.log([1, 2, 3] + [4, 5, 6]);
-console.log(typeof NaN);
-console.log(0.1 + 0.2 === 0.3);
+int main() {
+    int arr[] = {10, 20, 30, 40};
+    cout << *(arr + 2) << endl;
+    cout << *(2 + arr) << endl;
+    return 0;
+}
 ```
 
 <details>
 <summary>Reveal the answer</summary>
 
-```
-"1,2,34,5,6"
-"number"
-false
+```text
+30
+30
 ```
 
-If you got all three right first try, we should probably be talking about a job. 😄
+**Explanation:**
+
+`arr + 2` points to the third element of the array, and `*(2 + arr)` is exactly the same expression because pointer addition is commutative.
 
 </details>
-</details>
 
+**If you got it right, you're already thinking like a C++ programmer. 🚀**
 ---
 
 ## 🎓 Education

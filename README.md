@@ -44,7 +44,8 @@ Sk Naif Alam :
 
 ## 🎮 Guess the Output
 <details>
-**Can you predict the output?**
+
+  **Can you predict the output?**
 
 ```cpp
 #include <iostream>
@@ -72,6 +73,7 @@ int main() {
 
 </details>
 </details>
+
 **If you got it right, you're already thinking like a C++ programmer. 🚀**
 ---
 

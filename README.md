@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=naifsheikh0808-collab&color=00F6CC&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/naifsheikh0808-collab)
-[![GitHub followers](https://img.shields.io/github/followers/naifsheikh0808-collab?label=FOLLOWERS&style=for-the-badge&color=00F6CC)](https://github.com/naifsheikh0808-collab)
+[![Profile Views](https://komarev.com/ghpvc/?username=naifsheikh0808-collab&color=6ee7b7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/naifsheikh0808-collab)
+[![GitHub followers](https://img.shields.io/github/followers/naifsheikh0808-collab?label=FOLLOWERS&style=for-the-badge&color=6ee7b7)](https://github.com/naifsheikh0808-collab)
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-✓-22c55e?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍-INDIA,%20KOLKATA-3b82f6?style=for-the-badge)
 

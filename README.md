@@ -81,7 +81,7 @@ int main() {
 |--------|--------------|-----------|----------|
 | 🎓 B.Tech — Computer Science & Engineering (Data Science) | Techno Main Salt Lake | 2024-2028 | 3rd Year, 5th Sem |
 | 📚 Higher Secondary (Class XII) | Islamia High School | 2024 | Completed |
-| 📚 Secondary Secondary (Class X) | Wahed Memorial High School | 2021 | Completed |
+| 📚 Secondary School (Class X) | Wahed Memorial High School | 2021 | Completed |
 
 
 

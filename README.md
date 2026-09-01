@@ -238,7 +238,7 @@ int main() {
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naif_sheikh_08/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/naifsheikh08)
 
-📍 **India**
+📍 **Kolkata, India**
 
 </div>
 

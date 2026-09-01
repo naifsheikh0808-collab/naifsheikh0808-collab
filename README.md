@@ -44,7 +44,12 @@ Sk Naif Alam :
 
 ## 🎮 Guess the Output
 
-  **Can you predict the output?**
+<details>
+<summary><b>Click to reveal a quick C++ trivia round — no peeking before you guess! 👀</b></summary>
+
+<br/>
+
+**Can you predict the output?**
 
 ```cpp
 #include <iostream>
@@ -73,6 +78,9 @@ int main() {
 </details>
 
 **If you got it right, you're already thinking like a C++ programmer. 🚀**
+
+</details>
+
 ---
 
 ## 🎓 Education

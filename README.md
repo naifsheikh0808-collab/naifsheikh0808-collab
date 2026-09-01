@@ -218,11 +218,11 @@ int main() {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-naif-alam-553901406/)
 [![GitHub](https://img.shields.io/badge/GitHub-naifsheikh0808--collab-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naifsheikh0808-collab)
 [![Gmail](https://img.shields.io/badge/Gmail-naifsheikh0808%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naifsheikh0808@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naifalam)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naif_sheikh_08/)
 
 📍 **India**
 

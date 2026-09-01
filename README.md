@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Sk%20Naif%20Alam&textBg=false&desc=Data%20Science%20Student%20|%20Full%20Stack%20Web%20Devloper%20|%20Problem%20Solver&descAlignY=55&fontAlignY=31&animation=twinkling&fontSize=60&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F6CC&center=true&vCenter=true&width=520&lines=++++Hey+there!+I+am+Sk+Naif+Alam+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+%40+TMSL+College+%F0%9F%8E%93;Aspiring+Data+Scientist+%26+Data+Analyst+%F0%9F%9A%80;Building+AI-Powered+Solutions+for+Real-World+Problems+%F0%9F%92%A1;Currently+Learning+Data+Science,+AI%2FML+%26+DSA+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F6CC&center=true&vCenter=true&width=650&lines=++++Hey+there!+I+am+Sk+Naif+Alam+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+%40+TMSL+College+%F0%9F%8E%93;Aspiring+Data+Scientist+%26+Data+Analyst+%F0%9F%9A%80;Building+AI-Powered+Solutions+for+Real-World+Problems+%F0%9F%92%A1;Currently+Learning+Data+Science,+AI%2FML+%26+DSA+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>

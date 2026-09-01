@@ -79,9 +79,9 @@ int main() {
 
 | Degree | Institute | Year | Status |
 |--------|--------------|-----------|----------|
-| 🎓 B.Tech — CSE (Data Science) | Techno Main Salt Lake | 3rd Year | 5th Semester |
+| 🎓 B.Tech — Computer Science & Engineering (Data Science) | Techno Main Salt Lake | 2024-2028 | 3rd Year, 5th Sem |
 | 📚 Higher Secondary (Class XII) | Islamia High School | 2024 | Completed |
-| 📚 Secondary (Class X) | Wahed Memorial High School | 2021 | Completed |
+| 📚 Secondary Secondary (Class X) | Wahed Memorial High School | 2021 | Completed |
 
 
 

@@ -236,6 +236,7 @@ int main() {
 [![Gmail](https://img.shields.io/badge/Gmail-naifsheikh0808%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naifsheikh0808@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naifalam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naif_sheikh_08/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/naifsheikh08)
 
 📍 **India**
 

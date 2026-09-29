@@ -191,6 +191,7 @@ int main() {
 
 | | Achievement |
 |---|-------------|
+| 💼 | **AICTE | IBM SkillsBuild Academic Internship - Data Analytics with AI | BharatCares** |
 | 🎯 | **Smart India Hackathon** — Participant |
 | 📊 | **Altair Data Analytics Certification** |
 | 💼 | **Deloitte Data Analytics Certification** |

@@ -211,12 +211,17 @@ int main() {
 
 <div align="center">
 
+<img src="https://github-readme-stats-v5r7.vercel.app/api?username=naifsheikh0808-collab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-v5r7.vercel.app/api/top-langs/?username=naifsheikh0808-collab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naifsheikh0808-collab&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naifsheikh0808-collab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-activity-graph-silk.vercel.app/graph?username=naifsheikh0808-collab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
+<br/>
 </div>
 
 ---
